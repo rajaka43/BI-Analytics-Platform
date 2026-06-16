@@ -128,7 +128,7 @@ st.markdown(
 # ── Constants ────────────────────────────────────────────────────────────────
 
 DB_PATH        = "business_data.db"
-REFRESH_SECS   = 3
+REFRESH_SECS   = 4
 CHART_BG       = "rgba(0,0,0,0)"
 PAPER_BG       = "rgba(0,0,0,0)"
 GRID_COLOR     = "#21262d"
